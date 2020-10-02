@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Task 1. Caesar cipher CLI tool",
+  "main": "index.js",
+  "dependencies": {
+    "minimist": "^1.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dispet/nodejs.git"
+  },
+  "author": "Siarhei Krauchanka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dispet/nodejs/issues"
+  },
+  "homepage": "https://github.com/dispet/nodejs#readme"
+}
